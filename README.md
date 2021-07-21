@@ -1,5 +1,5 @@
-<h1 align="center">Deno Starter Repo</h1>
-<p align="center">This is a starter repository for gitpod and Deno</p>
+<h1 align="center">Deno File Upload Workshop</h1>
+<p align="center">Use this repo to work through file upload examples in the Deno File Upload workshop</p>
 
 ## Table of Contents
 
@@ -8,11 +8,9 @@
 
 ## Getting Started
 
-1. Click the `Use This Template` button
-1. Create a new Repository
-1. Prefix url with `https://gitpod.io/#` + [ your repository url ]
+See:
 
-Thats it, you should have a new gitpod environment with deno installed ready to go!
+https://blog.hyper.io/uploading-files-with-deno
 
 ## License
 
